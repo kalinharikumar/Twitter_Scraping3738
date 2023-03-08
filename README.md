@@ -21,13 +21,13 @@ Now using streamlite I've made 2 tabs(Home,About)
 With tab1 an form is made to get variables for search with a final submit button.
 And if submit button for loop is executed with snscrap with search data.
 Now required data is collected into DataFrame which will displayed in ui.
-Also 3 buttons are made for upload to database, download as csv and download as json
+Also 3 buttons are made for upload to database, download as csv and download as json.
 MongoDB connection is established using pymongo.
 Dataframe is converted to csv, json and Dictionary for requirements.
 Finally, tab2 an short explationation about the project.
 ## Execution
-Execute through terminal or cmd
-streamlit run python file name
+Execute through terminal or cmd.
+streamlit run python file name.
 It will direct through browser after successful execution.
 
 ## Demo
