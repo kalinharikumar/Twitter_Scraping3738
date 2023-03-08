@@ -16,8 +16,7 @@ We also convert the DataFrames to csv and json files as it will be Downloadable
 ## Streamlit
 As we all know Streamlit turns data scripts into shareable web apps in minutes. All in pure Python. No front‑end experience required. We use it with search box, sliders, buttons, download buttons etc.,
 ## Demo
-
-Everything is explained in demo video. please follow the link below.
+Workflow and excution is explained in demo video. please follow the link below.
 https://www.linkedin.com/posts/kalin-harikumar-230349140_twitter-guvi-twitterscraping-activity-7039156844476473344-hU9i?utm_source=share&utm_medium=member_desktop
 
 
