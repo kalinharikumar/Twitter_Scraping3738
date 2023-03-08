@@ -25,8 +25,7 @@ Also 3 buttons are made for upload to database, download as csv and download as 
 MongoDB connection is established using pymongo.
 Dataframe is converted to csv, json and Dictionary for requirements.
 Finally, tab2 an short explationation about the project.
-
-##Execution
+## Execution
 Execute through terminal or cmd
 streamlit run python file name
 It will direct through browser after successful execution.
